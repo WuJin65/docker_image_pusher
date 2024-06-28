@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+elasticsearch:7.1.1
 mobz/elasticsearch-head:5
 kibana:7.1.1
 docker.elastic.co/beats/filebeat:7.1.1
