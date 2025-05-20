@@ -12,4 +12,5 @@
 #bladex/alpine-java:openjdk17_cn_slim
 #bladex/sentinel-dashboard:1.8.6
 #jauderho/imapsync:latest
-influxdb:2.7.11
+#influxdb:2.7.11
+node:20-alpine
